@@ -1,2 +1,2 @@
 print ("Hello New World")
-print ("Adding icon")
+print ("Adding icon picture")
